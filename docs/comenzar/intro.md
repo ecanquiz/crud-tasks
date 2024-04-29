@@ -6,6 +6,6 @@ Este tutorial consiste en la creación de un CRUD ToDo (de tareas) con PHP y Jav
 
 Está dirigido a los desarrolladores que desean escalar respectivamente desde la **Options API** hacia la **Compositions API**, **composables** y **script-setup**.
 
-Los únicos requisito son conocer los conceptos básicos de Laravel y de Vue.
+Los únicos requisito son conocer los conceptos básicos de PHP y JavaScript.
 
 Así que empecemos...
