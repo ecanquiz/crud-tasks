@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'CRUD Tasks',
+  title: 'CRUD Task',
   description: 'PHP + JavaScript',
   base: '/crud-tasks/',
   themeConfig: {
